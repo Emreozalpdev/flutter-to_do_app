@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Screenshot](to_do_app_ui.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
